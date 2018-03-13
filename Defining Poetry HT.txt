@@ -1,0 +1,222 @@
+At this point, I want to lay out what my goals are for this project:<br />
+<br />
+- To explore, using specific examples, what it feels like to understand poetry and explain how this experience compares to what the same works are like when lacking the faculties necessary in order for this to happen - so that the differences between the kind of comprehension that is possible in each case becomes clearer. Then I want to show how this manifests in biases which lead a person to interpret specific kinds of structures as being meaningful where they previously would not have been.<br />
+<br />
+- To show why I believe that the mental structures that enable the comprehension of a symphony, those that become active on gaining SGP, are fundamentally the same in kind as that which allows the total apprehension of poetry. I will try to do this by showing how the basic processes of Variant Addition (covered <a href="http://chromaticproduction.blogspot.com.au/2017/05/variant-construction-part-1-definitions.html" target="_blank">here </a>and <a href="http://chromaticproduction.blogspot.com.au/2017/05/variant-construction-part-2-examples.html" target="_blank">here</a>) can also potentially be applied to language that provides a metric structure as a basis to enable poetic forms that extend the scope of how a given person can perceive grammar.<br />
+<br />
+- To illustrate how the meters of verse forms are apprehended such that they only possible in general through SGP, are actually experienced primarily as high level variant structure, and seemingly aren't the same as the low level, regular rhythms that are the basis for most music. Following this, I want to divide language constructs, with respect to a given language, into&nbsp;<i>canonical</i>,&nbsp;<i>variant&nbsp;</i>and&nbsp;<i>divergent&nbsp;</i>categories. This should show why, in principal, variant poetic sentences which are alterations of canonical sentences (i.e. by swapping around the orders of words) can still comprehended as making sense poetically, and how this is different from sentences which may be felt to simply be entirely grammatically wrong, even if their intended meaning might be clear.<br />
+<br />
+- To show that SGP and VI respectively (the combination of which that allows the full scope of poetry being called the super-eidosic faculty) provide the structural and metaphoric possibilities that allow <i>unified</i>&nbsp;<i>Ideas </i>to be composed through language. In doing this, I hope to revive an older tradition of linguistics that attempted to find ways of delineating poetic language from normal language. I argue that, for a certain definition of poetic language, such delineation is very much in principal possible (save that a certain amount of cultural context that is relative will inevitably affect any attempt to do this).<br />
+<br />
+- To explain why I believe that Noam Chomsky's Universal Grammar, which covers the structures which are deemed to be necessary to allow a given person (ideally a 'native speaker') to learn which sentences feel grammatical or non-grammatical in a given language, does not actually cover the constructs that Super Grammatical Perception does which extend the capability of the language faculty to allow for poetic grammar. I will do this by assuming a conception of UG, the 'default' language processing ability that everyone who is capable of learning a native language that uses <a href="https://en.wikipedia.org/wiki/Merge_(linguistics)" target="_blank">'merge' []</a>&nbsp;processes, that only covers constructs that do not require SGP to intuitively comprehend (which may differ from what Chomsky actually holds to be the case). In addition, I also posit that such structures are likely limited to <a href="https://en.wikipedia.org/wiki/Context-free_grammar" target="_blank">context-free []</a>&nbsp;constructs, and that all language constructs of greater complexity are either apprehended poetically (with SGP providing intuitive comprehension of parallel structures in a unified way) or analytically (implying they are outside the scope of a given person's normal grammatical intuition and rely on cultural convention despite this).<br />
+<br />
+<br />
+I will now begin my exposition and re-exposition of what it means to understand poetry.<br />
+<br />
+I first off stress that the apprehension of repetition and the intuitive sense that this is significant in general is something that, for the vast majority of people, is not dependent on any modal faculty that requires any effort to acquire. At the very least, it seems that the majority of people are able to appreciate rhythm, the effects of timed metre in music, end-line rhyming in poetry and literal repetitions of sentences, along with many other phenomena that rely on the perception of repetition in time. That this occurs implies a certain peculiarity of our mode of cognition. This peculiarity can be expressed by the idea of "continuity through difference" i.e. that we experience reality not simply as an immediate moment in time, but also through a dynamically generated 'memory' of a sequence through time, which might be considered the "working memory" ^1, through which our attention is drawn to and allowed to apprehend distinctions and similarities of structures as they appear. This apprehension is not completely universal in all respects, some people experience difficult perceiving rhythm in the same way that most people are normally^2 expected to be able to&nbsp;<a href="https://www.cne.psychol.cam.ac.uk/pdfs/NuffieldBriefing" target="_blank">[]</a>,&nbsp;and the nature of this kind of perception and what may bias a given being to take note of particular kinds of repetitive similarities seems to differ in different species of animals.<br />
+<br />
+But let us assume as given that a particular person perceives these above mentioned qualities and feels beats and 'immediate' repetitions as significant things their attention is drawn to. Now, as I've already explained in detail, the modal faculties EVP and SGP are effectively binary parameters of a given person's mind, which respectively enable the perception of particular kinds of structures within particular modalities of experience. Each of these structures may become active in a given person in which they were previously inactive at (as far as I can tell) any stage in their life, and I believe that specific kinds of training can help improve the likelihood that this may occur earlier. Encompassing Voice Perception (EVP) causes arbitrary sounds to be perceived as if they were a human voice, and in doing so allows the language faculty and the kinds of structural biases it can learn to recognize to operate on music, resulting in the perception of musical 'themes' and their transformations, which are otherwise not a meaningful object of perception or imagination. Super-Grammatical Perception (SGP) enables Variant Construction and Vitalistic Imagination (VI), which allows for the perception of extended, layered hierarchies of form over artworks that utilize the language faculty and possess a beat structure, which includes both music and poetry.<br />
+<br />
+As I've mentioned before, it is possible even for an EV<b>N</b>-SG<b>N</b>&nbsp;to comprehend particular forms of poetry, specifically those which have end line rhyming, a regular, sing-song beat structure to them and which don't rely on any aspect of SGP or VI to be apprehended (e.i. neither the line structure nor the rhyming scheme are enjambed or break over a concrete thought). The following limerick should be accessible to anyone with competence in English:<br />
+<br />
+<i>There was an Old Man who supposed,<br />That the street door was partially closed;<br />But some very large rats,<br />Ate his coats and his hats,<br />While that futile old gentleman dozed.</i><br />
+<b>-Edward Lear</b><br />
+<br />
+The things that make such limericks accessible to such a large number of people seem to be shared in common with poetry that is similarly easy to comprehend; end stop rhyme, clear and concrete thoughts, regular patterns that don't use - let alone rely on - structural exceptions. You can see more examples demonstrating this in the following poems:<br />
+<br />
+<a href="https://allpoetry.com/poem/8497229-The-Highwayman-by-Alfred-Noyes">https://allpoetry.com/poem/8497229-The-Highwayman-by-Alfred-Noyes</a><br />
+<br />
+INSERT OTHER POEM EXAMPLES<br />
+<br />
+But this isn't what all poetry is like. I've already written about how I apprehend particular cases of 'advanced' poetry, so I will again use one of the simplest examples I'm aware of actually being advanced.<br />
+<br />
+<a href="http://chromaticproduction.blogspot.com.au/2016/10/looking-at-poetry-1-in-station-of-metro.html">http://chromaticproduction.blogspot.com.au/2016/10/looking-at-poetry-1-in-station-of-metro.html</a><br />
+<br />
+In particular I want special attention to be paid to what Ezra Pound actually said about the insights that lead to his composition of the poem and his thoughts about the nature of what he wanted to capture and what kinds of experiences and thought processes he believed this ought to be compared to.<br />
+<a href="https://www.blogger.com/goog_1140698758"><br /></a>
+<a href="http://www.english.illinois.edu/maps/poets/m_r/pound/metro.htm">http://www.english.illinois.edu/maps/poets/m_r/pound/metro.htm</a><br />
+<br />
+First, I will draw attention to a particular statement:<br />
+<br />
+<i>"When I find people ridiculing the new arts, or making fun of the clumsy odd terms that we use in trying to talk of them amongst ourselves; when they laugh at our talking about the "ice-block quality" in Picasso, I think it is only because <b>they do not know what thought is like</b>, and they are familiar only with argument and gibe and opinion. That is to say, they can only enjoy what they have been brought up to consider enjoyable, or what some essayist has talked about in mellifluous phrases. <b>They think only "the shells of thought,"</b> as de Gourmont calls them; <b>the thoughts that have been already thought out by others</b></i><br />
+<i><br /></i>
+<i>Any mind that is worth calling a mind must have <b>needs beyond the existing categories of language</b>".</i><br />
+<div>
+<br /></div>
+<div>
+If you've read my previous articles you can probably guess where I am going with this. That is, this line of thought shows that Pound is aware that he and the artists and art appreciators seem to think in a way that many people commonly do not, that is, they are capable of dynamically reworking ideas and impressions into new thoughts in order to express particular things, and see art as a tool that allows them to do this. Conversely, those without this artistic drive seemingly do not think like this and either are incapable of doing so, have no desire to or have no knowledge of how or why they ought to. I will claim that it is likely that the bulk of people (the portion depending on the society in question) are genuinely not capable of understanding such thought, or more accurately they are <i>not yet</i>&nbsp;capable of understanding such thought, as I also believe that most humans possess the latent potential to activate the dormant imaginations that make this possible, re-realizing thought as being capable of dynamically remolding itself and inhabiting a new mode of consciousness.<br />
+<br />
+To look into the fundamentals of this thought activity, and understand how it is built up in the mind, we can again revisit Pound's poem:<br />
+<br />
+---<br />
+<br />
+<h3>
+In a Station of the Metro</h3>
+</div>
+<blockquote>
+<i>"The apparition of these faces in the crowd;</i></blockquote>
+<blockquote>
+<blockquote>
+<i>Petals, on a wet, black bough."</i></blockquote>
+</blockquote>
+<div>
+<br />
+<br />
+---<br />
+<br />
+And again, revisiting his own comments:<br />
+<br />
+<span style="background-color: white;"><i>"The "one image poem" is a form of super-position, that is to say, it is one idea set on top of another."</i></span><br />
+<span style="background-color: white;"><i><br /></i></span>
+<i>"<span style="background-color: white;">In a poem of this sort one is trying to record the precise instant when a thing outward and objective transforms itself, or darts into a thing inward and subjective.</span>"</i><br />
+<i><br /></i>
+The overall structure of this poem is very simple, and that is why I have chosen it, as I will demonstrate how poetry can build up and make use of greater complexity later. But in its essence, this deliberately haiku like poem can be used to show the fundamental movement of a particular kind of thought activity. The movement is the contrast of two separate expression forms, placed together to that they parallel each other, in order to join the thought content of both into a single Idea. This act of creation is important to understand as something that is not specifically like other particular ways of joining two phrases. The poem does not specifically say that, or how, the "apparition" is <i>like</i>&nbsp;the 'petals', nor that, or how, it is <i>different</i>&nbsp;from the 'petals', the two idea forms are simply set against each other, each being and remaining itself, and each being part of the other within the unity of the poem, with the imagination free to grasp at how that might be realized. Many critics in the above <a href="http://www.english.illinois.edu/maps/poets/m_r/pound/metro.htm" target="_blank">link</a>&nbsp;mention this same quality in different terms. And it is this specific quality, this direct contrasting together by parallel juxtaposition of structures that I again claim is beyond 'ordinary' language and is only specifically perceived by SGP<b>A</b>s.<br />
+<br />
+So, if we accept this where can we go from here? We can take this atomic contrasting/unification of parallel structures/fragments-of-imagination and use it to demonstrate a part of a principal that allows SGP to generate larger structures of significance. This principal aspect is one that I have talked about before - Variant Addition. Variant Addition is that aspect of Variant Construction that I isolated in <a href="http://chromaticproduction.blogspot.com.au/2017/05/variant-construction-part-2-examples.html" target="_blank">this</a>&nbsp;article, in which I showed how it applied to examples in music. I will iterate what qualities distinguish it:<br />
+<br />
+- It allows you to build up the <i>perception </i>of a hierarchy of parallel structures, each potentially embedded within another, higher layer. With Variant Construction in general, structures can parallel each other in numerous ways (depending on the particular medium, the structural differences of which I will detail later), but Variant Addition covers the restricted case where the substructures do actually parallel each other fully.<br />
+- This structure can (and generally does) take place <i>within</i> and <i>as part of</i>&nbsp;the context of a larger continuous structure. Variant structures take part in continuations of <i>canonical</i>&nbsp;structures (i.e. sentences in the case of poetry, but themes in the case of music). This is the most crucial part of understanding what makes variant structure special and not trivially apparent to people without SGP. SGP is necessary in order to have active mental processes that bias one to perceiving variant structure as something through which canonical structures flow, meaning that sentences can have parts that are not within a given section of a variant structure, but then become part of it when they flow into it; or conversely, they can begin in a given section and flow out of it. The canonical aspects of structure speak, flow and join, while the variant aspects parallel, frame and extend.<br />
+<br />
+I will immediately demonstrate this with an example before continuing further analysis.<br />
+<br />
+---<br />
+<br />
+<h3>
+BURNT NORTON<br />(No. 1 of 'Four Quartets')</h3>
+<h4>
+-T.S. Eliot</h4>
+<br />
+<i><span style="color: #38761d;">Time present and time past<br />Are both perhaps present in time future,<br />And time future contained in time past.</span><br /><span style="color: #b45f06;">If all time is eternally present<br />All time is unredeemable.</span><br /><span style="color: #38761d;">What might have been is an abstraction<br />Remaining a perpetual possibility<br />Only in a world of speculation.</span><br /><span style="color: #b45f06;">What might have been and what has been<br />Point to one end, which is always present.</span><br /><span style="color: #6aa84f;">Footfalls echo in the memory<br />Down the passage which we did not take<br />Towards the door we never opened</span><br /><span style="color: #f1c232;">Into the rose-garden. My words echo<br />Thus, in your mind.</span></i><br />
+<i><span style="background-color: white; color: #f1c232;"><span style="font-family: &quot;verdana&quot; , &quot;geneva&quot; , sans-serif; font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>But to what purpose<br />Disturbing the dust on a bowl of rose-leaves<br />I do not know.<br style="font-family: Verdana, Geneva, sans-serif; font-size: 16px;" /><span style="font-family: &quot;verdana&quot; , &quot;geneva&quot; , sans-serif; font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>Other echoes<br />Inhabit the garden. Shall we follow?</span></i></div>
+<div>
+<br />
+---<br />
+<br />
+Here is a fragment of the first section of Eliot's <a href="http://www.davidgorman.com/4Quartets/1-norton.htm" target="_blank">'Burnt Norton' Quartet</a>, parts of which I have highlighted in different colors to illustrate a particular pattern. It is through the re-cognition of this pattern that Variant Addition can operate, producing a sense of a parallel block structure overlaying the opening lines of the poem, connecting their meaning and feeling into something larger. In the first instance, we can see a sentence spanning over three lines, to be followed by a two line statement, punctuating it. The second set of five lines again uses this structure, paralleling the first, creating a duplicity of this structure, the line breaks deliberately drawing the attention to this quality. But this will feel meaningless if SGP if absent from a mind seeking meaning from this, and this should become especially apparent when we get to the lines following the tenth. You see, the lines beneath break the pattern that began before - or, at least, they break <i>through</i>&nbsp;it. Instead of spanning just three lines, the next sentence continues on into the fourth, to stop part way through. I mark this part in gold, not to force the structure of the previous part onto it, but to show how it distinguishes itself from that structure and what aspects of it would otherwise have continued that line by line parallel. Instead, it follows on differently, continuously enjambing itself across the lines, inviting, extending to the reader a desire to be swept through to the garden beyond ordinary time. You may perceive that this kind of structure is similar in principal to the overlapping that occurred with the Bach example in&nbsp;<a href="http://chromaticproduction.blogspot.com.au/2017/06/variant-construction-part-3-more.html" target="_blank">part three</a>&nbsp;of Variant Construction, in which two different structures can join, spliced together, and overlap in doing so, without the first part having a distinct ending, or the second necessarily having a clearly distinct start.<br />
+<br />
+But why should the structure work out like this at all? What <i>a priori</i>&nbsp;reason is there to feel that this is meaningful, that this particular combination of parallelism and 'ensplicement' is something that should guide our apprehension of poetry? After all, if you went through with the specific intention of fitting the poem into a predefined structure, you would turn up empty, as the exceptions would not 'prove the rule' so much as they would make you question why you were trying to seek it in the work the first place; the total number of structural possibilities you could be analyzing instead is limitless. If a pattern seemingly only applies to a part of the work, then so what? Why would that not make the pattern only meaningful to the parts where it clearly does apply, as opposed to in some sense carrying through a structure that breaks it? And even then, why this particular parallelism, as opposed to any other kind of arbitrary structure that a student of poetry could be taught to consider significant instead?<br />
+<br />
+This is why I have worked on defining SGP, to show that there seemingly is an aspect of the mind that is simply absent in some people which otherwise draws the attention to and enables the experience of these kinds of structures, explaining why some people seems to be able to intuitively understand high level poetic structure, while others seems to consider it pretentious gibberish no matter how much effort or intelligence they are willing to actually put into it.<br />
+<br />
+Now, I have brought up Variant Addition to try to demonstrate an element which is seemingly similar between the variant structure of music and of poetry. But even just from the example I've used so far, there seems to be some difference in the way the structures manifest themselves in context. A key thing you might notice is that, in the <a href="http://chromaticproduction.blogspot.com.au/2017/05/variant-construction-part-2-examples.html" target="_blank">first example</a>&nbsp;I used to demonstrate Variant Addition in music, the parallel structures operated <i>inside</i>&nbsp;of a single canonical structure; the effect was to extend and drag out the perception of a musical theme so that each new subsection was perceived to carry it forward, finishing totally only when finally coming to rest by filling out a whole bar with a note of the tonic. Most tonal music of the western classical tradition follows these basic principals, a set of musical themes is created that generates and is sustained through a tension leading to a given tonic note/chord. Then the thematic material can be further developed and extended through Variant Construction, while maintain the tonic key as a goal that needs to be aimed for in order to properly complete the expression of the theme. This effectively drags out what amounts to something that is perceived as the equivalent of a single sentence across a whole section of a musical movement.<br />
+<br />
+This, however, is not quite the case in poetry. Instead, multiple sentences frequently seem to occur <i>within</i>&nbsp;the context of a subsection of a variant structure (as seen in the first quartet above). The variant construction in poems occurs around blocks of sentences that can bleed into one another, but which establish a kind of stability over a perceived metric structure despite this. This is actually structurally closer to some of Stravinsky's works, such as the Rite of Spring, in which local block structures, with possibly different metres, are brocaded together into a larger sequence thought Variant Construction without independently establishing themes with distinct keys over a single time signature.&nbsp;Variant structure can, with Variant Addition, hierarchically duplicate structural elements of a sentence in the context of a poem, and extend the sentence out through parallelism in doing so, similarly to how this occurred in the modifications of the&nbsp;Zefiro Torna example given before. But unlike such music, poetry doesn't occur in the context of a key tension that is ultimately resolved through a particular tonic, and isn't based around thematic material possessing this quality, such that it needs to stretch itself as a canonical sequence across this tension. Instead poetry consists of sentences laid together that conspire to unify into the expression of an Idea or image, with the closest equivalent to musical motifs and themes being thematic concepts and images that pop up throughout the work to create conceptual coherence and join together metaphorically. So the element of each art form are based in canonical sequences which posses fundamentally different properties, but which can be rendered through Variant constructs. This constitutes what I claim to be evidence that such constructs in multiple art forms are enabled through SGP in similar ways, along with that of my own personal experience. It should then in principal be possible to categorize people based in their perception of this and show that this correlates across these different media.<br />
+<br />
+---<br />
+<br />
+It may be noted that none of the 'advanced' poems I've used in this post so far have regular line lengths, and in fact rely heavily on their line breaking conventions to define their patterns. This is convenient, because I have yet to properly talk about how I have experienced the sense of metre arise in different kinds of poetry, as I do not feel it arises in the same way in each case. Like I've discussed before, the metre in 'non-advanced' poetry tends to have a stable, song-like quality to, where each line is clearly enunciated. However this is not always the case in poems, and to understand this better I will try to describe another aspect of my change of perception.<br />
+<br />
+There are many aspects of my perception of blank verse and free poetry that changed through gaining SGP. One of the more notable was how my perception of beats and 'lines' in such poetry (to the extent that 'lines' can explicitly be said to exist in the hearing of spoken verse) arose. As I have mentioned before here, I did not actually naturally perceive 'high poetry' to have a metre of any kind prior to SPG, poetry did actually need rhythm and rhyme in order for me to intuitively perceive it as feeling like poetry. Even trying to artificially scan for iambs or dactyls barely lead to me feeling any kind of underlying beat that meant anything except in the most rigid and regular examples of verse, and even then it didn't have quite the same feeling it now has to me. The kind of feeling I do have for its structure though, is still different in kind from sing-song-y poetry, and that I will explain.<br />
+<br />
+You see, when I read through a line of 'high poetry' now, my mind now seems to subconsciously scan it, perceiving a kind of corresponding block structure (depending on how the words are packed into the metre and line length) and how individual sentences fit into it. So, reading through a block of iambic pentameter, I will generally feel that a row of five iambs will create a single block (based off the kinds if conventional patterns that run through it), that can then be paralleled by the next line, and so on, as long as the pattern is regular. If sentences run off the line in ways such that their pauses don't correspond to the line ends, this isn't a problem for me now even if I simply read them as if they were prose sentences; I don't need to fit strong and weak syllables into a music-like rhythm or hear line ends marked with rhyme in order to perceive them as having the metric structure of iambic beats, as I would have before SGP. When enjambments and caesuras occur, my mind essentially takes them in stride, I recognize intuitively that they are off-kilter from the block structure, and this will affect the way I perceive them and their relation to other canonical sequences within the iambic block structure (which needs to be 'filled in' to properly make sense), but this perception is based around a feeling of how the words 'fit into' the continuously parallel block structure that defines the form. On top of this, alterations to the structure of the line, shortening or extending the number of syllables, or replacing a masculine ending with a feminine one, are things I now register has making sense and having a functional purpose within the context of a given verse work, as opposed to completely breaking my sense of a scannable running line structure existing.<br />
+<br />
+TODO: Fit in enjambment paragraph here.<br />
+<br />
+TODO: Use the ghost's appearance in Hamlet to illustrate these principals.<br />
+<blockquote>
+...</blockquote>
+<b>HORATIO</b><br />
+<blockquote>
+<span style="color: blue;">[</span>Tush, tush, 'twill not appear.<span style="color: blue;">~</span></blockquote>
+<b>BERNARDO</b><br />
+<blockquote>
+<span style="color: blue;">~</span>Sit down awhile;<span style="color: blue;">]</span><br />
+And let us once again assail your ears,<br />
+That are so fortified against our sto<span style="color: #a64d79;">ry*</span><br />
+<span style="color: blue;">[</span>What we have two nights seen.<span style="color: blue;">~</span></blockquote>
+<b>HORATIO</b><span style="background-color: white;"></span><br />
+<blockquote>
+<span style="color: blue;">~</span>Well, sit we down,<span style="color: blue;">]</span><br />
+And let us hear Bernardo speak of this.</blockquote>
+<b>BERNARDO</b><br />
+<blockquote>
+<span style="color: blue;">~</span>Last night of all,<span style="color: blue;">]</span><br />
+When yond same star that's westward from the pole<br />
+Had made his course to illume that part of heav<span style="color: #a64d79;">en*</span><br />
+Where now it burns, Marcellus and myself,<br />
+<span style="color: blue;">[</span>The bell then beating one,-- <span style="color: blue;">~</span><br />
+<i>Enter Ghost</i></blockquote>
+<b>MARCELLUS</b><span style="background-color: white;"></span><br />
+<blockquote>
+<span style="color: blue;">~</span><span style="color: #cc0000;">Peace, break thee off;</span><span style="color: blue;">](?)</span> look, <span style="color: #38761d;">(?)</span><span style="color: #0b5394;"> </span><span style="color: #38761d;">where it comes again!</span><span style="color: #0b5394;"><br /></span></blockquote>
+<b>BERNARDO</b><br />
+<blockquote>
+<span style="color: #cc0000;">In the same figure,</span><span style="color: #38761d;"> like the king that's dead.</span></blockquote>
+<b>MARCELLUS</b><span style="background-color: white;"></span><br />
+<blockquote>
+<span style="color: #cc0000;">Thou art a scholar;</span><span style="color: #38761d;"> speak to it, Ho</span><span style="color: #93c47d;">ratio.</span></blockquote>
+<b>BERNARDO</b><span style="background-color: white;"></span><br />
+<blockquote>
+<span style="color: #cc0000;">Looks it not like the king?</span><span style="color: #38761d;"> mark it, Ho</span><span style="color: #93c47d;">ratio.</span></blockquote>
+<b>HORATIO</b><span style="background-color: white;"></span><br />
+<blockquote>
+Most like: it harrows me with fear and wond<span style="color: #a64d79;">er.*</span></blockquote>
+<b>BERNARDO</b><span style="background-color: white;"></span><br />
+<blockquote>
+<span style="color: #cc0000;">It would be spoke to.</span></blockquote>
+<b>MARCELLUS</b><span style="background-color: white;"></span><br />
+<blockquote>
+<span style="color: #38761d;">Question it, Ho</span><span style="color: #93c47d;">ratio.</span></blockquote>
+...<br />
+<br />
+<br />
+<br />
+<br />
+In the lowest comment of the following link a similar example occurs:<br />
+<a href="https://www.blogger.com/goog_284085907"><br /></a>
+<a href="http://ask.metafilter.com/173323/Blank-Verse-Feminine-Endings">http://ask.metafilter.com/173323/Blank-Verse-Feminine-Endings</a><br />
+<br />
+Note how in between the lines where the "character swapping" occurs, the number of full lines of iambic pentameter that carry through to the next 'swap' is seemingly arbitrary. Again this is close in spirit to the way that I have tried to demonstrate how variant structure can 'fold' over metric structure so that is can drag out sections of a canonical sequence before a given structure succeeds that then punctuates and unfolds, and hence either ends that line of thought or has it carry on in a different way (such as when the 'swaps' between Jessica and Lorenzo occur). Many more examples that demonstrate the various effects that such verse can achieve in deliberately choosing to vary its patterns are illustrated in&nbsp;the book "Shakespeare's Metrical Art". This book discusses how it is possible to create particular expressions of emotion and feeling via variation of the number of syllables of a line and stresses within feet, yet still have this feels like it fits into a meaningful variant structure. Moreover, on chapter six there is a short discussion of the kinds of ambiguous hinge-like structures that I have been talking about as being characteristic of variant structure, where part of one structure seems to be an integral part of multiple structures surrounding it (p 103-104).<br />
+<br />
+Blank verse isn't the only form built out of feet that I can perceive though, it is possible to dynamically construct sequences with lines of differing lengths and fit them together in ways that allow different parts parallel each other, so long as they ultimately provide some sort of hierarchy of parallels that can be joined through linking and extending sentences (as canonical sequences) and expressions of related ideas. Certain 'decorative' features are involved in the apprehension of the total variant structure of a poem that enables this. The decorative features (which are similar to the kinds of features involved in the grouping preference rules of the GTTM) include things like whole repetition of lines, rhyme, alliteration, repetition of consonants etc. which will influence the perception of structural parallels in that order of strength by biasing the mind to perceive the aspects that are shared in common as relating to one another.<br />
+<br />
+TODO: Find illustrative example.<br />
+<br />
+<br />
+---<br />
+<br />
+In addition to Variant Addition and the Decoration Biases, there are also additional 'constructive' aspects of variant structure that are open to being altered and played around with. The 'constructive' features include the possibility of swapping around the order of words or expressions occur in a given phrase, even if it would normally result in an 'ungrammatical' sentence, and being able to meaningfully interpret a given word in two or more senses at the same time, metaphorically combining the multiplicity of meaning, as opposed to perceiving the multiple meanings separately.<br />
+<br />
+<br />
+Understanding variation of feet and line lengths and the structural significance they have is only possible with SGP. So things like the inclusion of a "feminine ending" will not be comprehended with the significance they hold to a person with SGP to one without.<br />
+<br />
+*Some additional features are involved in the apprehension of the total variant structure of a poem. The 'decorative' features (which are similar to the kinds of features involved in the grouping preference rules of the GTTM) include things like whole repetition of lines, rhyme, alliteration, repetition of consonants etc. which will influence the perception of structural parallels in that order of strength. The 'constructive' features include the possibility of swapping around the order of words or expressions occur in a given phrase, even if it would normally result in an 'ungrammatical' sentence, and being able to meaningfully interpret a given word in two or more senses at the same time, metaphorically combining the multiplicity of meaning, as opposed to perceiving the multiple meanings separately.<br />
+<br />
+TODO: Use John Donne's "Batter My Heart", specifically the line "Reason, your viceroy in me, me should defend," to illustrate a variant sentence in which the variant structure is perceived at the same time as the canonical ordering.<br />
+<br />
+Use Pound's apprehension that poetry is like "the musical phrase", using his definition of Imagism.<br />
+<br />
+*NOTE: Make it clear how the Variant elements of the first part of the first quartet overlap, in ways similar to the overlapping joins in <a href="http://chromaticproduction.blogspot.com.au/2017/06/variant-construction-part-3-more.html" target="_blank">part three</a>.<br />
+<br />
+For an example of a strongly 'deviant' sentence take the following, which I saw in a newspaper article:<br />
+<br />
+<i>"Why is it only the unemployed people tell you to quit?"</i><br />
+<br />
+apparently said by Chris Rock, according to the Herald Sun. It should be quite obvious what it's actually expressing, and it could easily become grammatical while maintaining the same sense by making one of several small changes, but it's still slightly off in a way that feels wrong. I feel that this example demonstrates how an off kilter sentence can make sense, feel ungrammatical and also not have poetic grammatical sense.<br />
+<br />
+<br />
+<br />
+*NOTE: Enjambment is also something that will only have structural significance and meaning to SGP<b>A</b>s&nbsp;in verse. I must note that I still have not seen any attempt at a rigorous definition of what an enjambment actually is in grammatical or even conceptual terms beyond the general principal that the expression of an idea is broken across lines. It seems to me like it is something you "know when you feel it" if you have the ability to, but which otherwise may be difficult to define strictly. Like with Zen koans, I identify enjambment based around the feelings I experience in common when they occurs. I have reason to suspect that perception of this feeling of enjambment may require EVP, as I could perceive enjambment in poems that made use of line-end rhymes prior to developing SGP, but this feeling never occurred before I gained EVP. If this is the case, and it is true that EVP is needed to understand enjambment, then what it is like for someone without EVP to 'feel' enjambment is likely closer to how I currently perceive visual significant form, i.e. by recognizing that I am being presented with a kind of thing that I cannot comprehend because it contains elements that seems to conflict with themselves in a particular way.<br />
+<br />
+NOTE: Iambic pentameter implies that there is the possibility of naturally perceiving a metric structure that is a multiple of five, rather than two or three. Whereas, according to Jackendoff and Lerdahl's GTTM model of music, metric structures are limited to those that are only divisible by the primes two and three. This seemingly implies that the basic mechanisms involved in the perception of certain poetic metrics can be distinct from that while allows the perception of the bar structure in music.<br />
+<br />
+TODO: Comment on the possible inadequacy of Nigel Fabb's metric theories (2008, PDF)<br />
+<i><br /></i></div>
+<div>
+---<br />
+<br />
+The way Variant Construction as a whole operates on poetry is different from how it operates on musical structure, which I assume is at least in large part due to the differences in their underlying 'canonical' structures and also how meaning and significance is perceived in them.<br />
+<br />
+<br />
+<i>Variant Addition enables the perception of unity out of a duplicity in a specific way. It allows the recursive building up of a multi layered hierarchy of duplicities into a unity, a unity which may itself be part of an even larger development (of a structure and/or Idea) as it continues its development through&nbsp;a work.</i><br />
+<br />
+^1 The working memory as a scientific abstraction is something that I have brought up before. The kinds of phenomena that are held in the working memory are seemingly similar to that which are stored in the long term memory, which seems to be able to allow the recall of structures and relations between them in many modalities. Exactly how these various memories relate, how their storage is different or similar, and how this is substantiated through structure are open questions. At the very least, the faculties of memory seem to operate to allow me to compare and contrast the difference between experiences that I have have before and after developing both EVP and SGP, preserving the memory of when I lacked their perception to a certain extent in long term memory.<br />
+<br />
+^2 What it means to be considered normal is naturally a conventional quality that depends on what society deems to be normal in a given environment. Whether the possession of a given modal faculty is 'normal', or will be deemed to be normal if society becomes aware that it is a meaningful phenomena, will depend on that society and it's culture and makeup.<br />
+<br />
+<br />
+*Take note of Auditory Scene Analysis<br />
+<br />
+*I use the word re-cognition as such to highlight a particular aspect of its nature. To <b>re</b>-cognize is to apprehend some object, and then to perceive it as taking part in some particular identity. You not only perceive what is taken to be that that particular object again, but you <i>also</i> add to the otherwise immediate perception of the object an association with this identity. It is this second aspect that I want to deliberately highlight. Note that when you are overly familiar with something, or seldom part with it, you would rarely use the term recognize to describe your apprehension of it, as the identity is taken for granted. It is only in doing something like looking as a photo that you could have mistaken for another that you might say you "recognize yourself", projecting identity into a complex with this other. You re-cognize identity into an association with a perception in this case. Likewise, you can re-cognize a structure by identifying apparent similarities it has in common with other structures and then perceiving it to be alike. This can change your perception of the structure and the substrate of which it is constituted and add associations to its particular manifestation.<br />
+<br />
+NOTE: MESSAGE&nbsp;<span style="background-color: white; color: #f4af00; font-family: &quot;helvetica neue&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif; font-size: 28px;">Peter Lewis Groves</span></div>
