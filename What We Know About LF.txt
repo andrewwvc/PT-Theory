@@ -1,0 +1,51 @@
+What We Know About The Language Faculty
+
+The debate about whether or not Universal Grammar 'exists' has been furious. Plenty of people have exchanged letters over this point of contention, and seem utterly convinced that their particular position on this issue, whether UG is or is not, is the correct one.
+
+There seems to me to something odd about the very question though. While what specifically is being discussed is significant no doubt, and I believe that many people do hold substantial reason to hold divergent views and believe what they do, there seems to be less agreement as to what UG even is or what should actually count as evidence for or against it than the arguments would suggest, and I hold that this is a problem.
+
+Proponents of UG will typically have a very broad and encompassing sense of what it is, and see the flexibility of the conception they have of it as a positive; something that is so general and yet which seems so necessary to account for what we know about how people acquire a given language would seem highly unlikely to be false as so opponents of this are seen as opposing something that they may not even realise the fundumentality of.
+
+Conversely, detractors of UG either seem to perceive it a something far more strict and limited; as a specific model of generative grammar or series of such models (where the need for updates and modifications is seen as a demonstration of weakness due to a lack of predictive power that ought to be there), or as something so vague that it barely qualifies as something that could reasonably be falsified.
+
+
+What we do know.
+
+Certain things seem to be generally agreed upon. We know that there are certain areas of the brain, that *in most people*, the observed activity of which corresponds to the processing of certain kinds of sequential patterns, among which is chiefly is the ability to process spoken natural language. We know that there seems to exist no other animal that possesses this ability to intuitively process deep structural significance into sequential patterns (as opposed to simpler communicative signs), and so can conjecture fairly safely that this arises uniquely in our species and that we seem to have evolved such that this occurs.
+
+*The differences in brain function between individual humans is interesting in its own right. Some people, due to structural damage among other reasons, seem to have lost or failed to acquire the ability to make sense of grammar, meaning, pitch, and a number of other specific aspects of language. This includes people like Ravel, who in his late career lost some of his ability to compose music with complex structure seemingly for this specific reason. Other people, conversely [INSERT EXAMPES/REFERENCES], seem to have developed language processing abilities in ways that are different physiologically and in terms of specific area, but which still produce an adequate function that is not too dissimilar to that of people with more normal brain physiology. This would imply a certain capacity (in humans) to dynamically generate the structures necessary for the language faculty.
+
+We know that, in addition to natural spoken language, the same brain areas can be used for visual/kinaesthetic languages like varieties of sign language without a spoken counterpart and written language (with and without subvocalisation), and in order to process certain structural aspects of music.
+
+
+Despite this, I do believe that there are meaningful differences between the two opposing views which should correspond to very real, determinate and testable consequences. The most crucial distinction I feel is that of whether or not the 'language faculty' is an aspect of 'general cognition' (in the sense that it is naturally used in learning all kinds of patterns in general and is an unconditionally basic source of our pattern finding ability) or if it is a more highly specialised feature of the mind that is used for the understanding of unique kinds of things. At this point I am very much on the side of UG being the latter, as I believe that the way that the 'language faculty' detects structures manifests in a distinct, discreet way, and that this has characteristic qualities when it does occur (manifested as structural biases and characteristic qualia), which ought not to be present in what conversely might be considered 'general cognition'. We should be able to see this on how the language faculty manifests in the processing of music. Encompassing Voice in principle shows that there is likely a discreet different between linguistic and non-linguistic processing of music, with the former immediately bestowing deep structural biases onto the perception of music when it is active, as opposed to the cognition of these structures being learned and arising gradually. Likewise, someone possessing the SEC can seemingly only make use of the structural enhancements enabled by Super Grammar via things that are cognized through the language faculty, as other effects of the SEC do not seem to manifest this particular structural bias.
+
+The way linguistic processing feels when it is used, how it essentially personifies what it allows to be cognized, giving the impression that it was created by a being with human qualities with the intention to express itself through the cognized sequence (of words/notes), is in certain ways distinct to the language faculty in my personal experience. The way that this processing also creates a distinct feeling of tension, where part of something will feel to be unresolved, which seems to in part be necessary to create the tendency to cognize the long-distance dependencies which are generally agreed to characterise the language faculty[], also seems to be specific to the language faculty. This is not to say that 'tension', in general, is unique to language processing, as other things can cause this, but the specific experience of tension as a demand to a specific kind of resolution, such that the sequence being cognized may in part be felt to not mean anything specifically until it forms part of something satisfactorially complete.
+
+Tension seem to naturally result when someone is at least temporarily deprived of a dependency implied by a given structure that may still be expected. It creates a sense of receptivity when a sequence feels 'cut-off'. Many structural aspects may be processed unconsciously though, so I am not limiting manifestations of structural biases to those which happen to be consciously experienced, rather I am implying only that particular privations of structure result in expectations that are apparent through feelings of tension, in order to encourage further cognition.
+
+--
+
+Mention -otto tension/personally acquiring adverbal suspension
+
+–
+
+There is the question of whether the processing of sequences of actions, might, in general, use linguistic processing. In one sense this could be answered in the affirmative, clearly sign languages do use linguistic processing and are languages in their own right consisting of sequences of actions that are not sound. In this respect the modality independence of linguistic processing should be firmly establised.
+
+--
+
+Everett's work on the Pirahã language is such that I actively view it as supporting the hypothesis of UG. Now, one may understandably object to this, as surely the very lack of recursion ought to, if anything, be one of the strongest marks of evidence against the innateness of UG, should it not? However, while this might well be a blow to a specific conception or model of UG that proposes this as a fundamental feature (especially one that holds it to be THE chief feature of linguistic structure), the evidence as it stand seems to be more interesting than this. As what seems to occur in the Pirahã is this: that adults of the community who have natively learned the language and have used it as their main means of communication since a young age, and who also did not learn any other natural language in their youth, seem to be unable to learn other languages that make use of recursive features. Conversely, children of these same adults who also learnt other languages as children along side Pirahã do seem to be able to successfully learn other languages with recursion at later ages. This would suggest something, that there may be a critical period for learning to use recursion (and hence suspension/tension). It may even be the case that the Pirahã aren't using language in accordance with UG proper.
+
+I ultimately can say that I strongly support a weak account of Universal Grammar.
+
+To what extent might UG be comprised of things that are structured based on the expression of specific (combinations of) genes and to what extent might it be emergent, being a manifestation of a particular set of biases that emerge from structures of the brain that associate large-scale dependencies with a sense of 'significance' (which may form meaning association, empathetic presence etc.) in ways that do not arise in the absence of these structures.
+
+--
+
+My conception of Poetic Super Grammar primarily concerns the strong generative capacity.
+
+[] When only the right hemisphere is left: Studies in language
+and communication, D. Vanlancker-Sidtis
+[] The language faculty that wasn't: a usage-based account of natural language recursion
+https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01182/full
+Indeed, when a group of generativists and cognitive linguists recently met to determine what is special about human language (Tallerman et al., 2009), one of the few things they could agree about was that long-distance dependencies constitute one of the hallmarks of human language, and not recursion (contra Hauser et al., 2002).

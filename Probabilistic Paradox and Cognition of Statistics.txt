@@ -1,1 +1,6 @@
 You might have heard of something called the Birthday Paradox before.
+
+I want to introduce the concept of 'environmental sentitivity'. This may essenetially be considered a way of abstracting the sense of whether or not the selection of an 'arbitrary' or 'subjective' baysean prior is crucial to the outcoem of a givne problem.
+
+
+This is important to note, and what's really interesting is that this issue is something that crops up quite unambiguously in the original statement of the problem, but at the same time the specific 
