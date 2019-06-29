@@ -1,0 +1,10 @@
+@article{article,
+author = {Myszkowski, Nils and Storme, Martin},
+year = {2017},
+month = {05},
+pages = {91-100},
+title = {Measuring "Good Taste" with the Visual Aesthetic Sensitivity Test-Revised (VAST-R)},
+volume = {117},
+journal = {Personality and Individual Differences},
+doi = {10.1016/j.paid.2017.05.041}
+}

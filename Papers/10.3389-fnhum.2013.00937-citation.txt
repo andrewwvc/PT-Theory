@@ -1,0 +1,19 @@
+AUTHOR=Wakita Masumi
+	 
+TITLE=Broca's area processes the hierarchical organization of observed action  
+	
+JOURNAL=Frontiers in Human Neuroscience     
+	
+VOLUME=7      
+	
+YEAR=2014
+	
+PAGES=937   
+		
+URL=https://www.frontiersin.org/article/10.3389/fnhum.2013.00937     
+	  
+DOI=10.3389/fnhum.2013.00937    
+	
+ISSN=1662-5161   
+
+ABSTRACT=Broca’s area has been suggested as the area responsible for the domain-general hierarchical processing of language and music. Although meaningful action shares a common hierarchical structure with language and music, the role of Broca’s area in this domain remains controversial. To address the involvement of Broca’s area in the processing action hierarchy, the activation of Broca’s area was measured using near-infrared spectroscopy. Measurements were taken while participants watched silent movies that featured hand movements playing familiar and unfamiliar melodies. The unfamiliar melodies were reversed versions of the familiar melodies. Additionally, to investigate the effect of a motor experience on the activation of Broca’s area, the participants were divided into well-trained and less-trained groups. The results showed that Broca’s area in the well-trained participants demonstrated a significantly larger activation in response to the hand motion when an unfamiliar melody was played than when a familiar melody was played. However, Broca’s area in the less-trained participants did not show a contrast between conditions despite identical abilities of the two participant groups to identify the melodies by watching key pressing actions. These results are consistent with previous findings that Broca’s area exhibits increased activation in response to grammatically violated sentences and musically deviated chord progressions as well as the finding that this region does not represent the processing of grammatical structure in less-proficient foreign language speakers. Thus, the current study suggests that Broca’s area represents action hierarchy and that sufficiently long motor training is necessary for it to become sensitive to motor syntax. Therefore, the notion that hierarchical processing in Broca’s area is a common function shared between language and music may help to explain the role of Broca’s area in action perception.
